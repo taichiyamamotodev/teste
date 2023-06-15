@@ -1,0 +1,91 @@
+NEXT_2023  
+13/06/2023
+NOVA EXPERIÊNCIA DE TRABALHO
+-GERÊNCIA DE CONFIGURAÇÃO (Ellen Cristina e Thiago Aquino)classroom u5xb24i
+
+ VERSIONAMENTO
+Processo de Desenvolvimento de Software
+REQUISITOS--->ANÁLISE E PROJETO--->PROGRMAÇÃO--->TESTE--->REALESE(ENTREGA DO SOFTWARE)
+
+CONTROLE DE VERSÃO(O que mudou?)
+CONTROLE DEMUDANÇAS(Por que mudou?)
+
+Itens de configuração:
+Código e Biblioteca
+Documentos e Imagens
+Todos sofrem gerência de configuração
+
+Base lines:
+EX. Versão 1.1,V 1.2, V1.3...
+
+JDK Releases
+The release information on this page covers the Java SE releases that were widely distributed or significant to the development of Java. 
+It does not cover patch releases or other one-off releases.
+
+
+View by Month
+
+Planned(1)
+Date	Type	Version	Other Information
+2025-04-15	CPU		24.0.1, 21.0.7, 17.0.15, 11.0.27, 8u451
+2025-03-18	Feature	24	
+2025-01-21	CPU		23.0.2, 21.0.6, 17.0.14, 11.0.26, 8u441
+2024-10-15	CPU		23.0.1, 21.0.5, 17.0.13, 11.0.25, 8u431
+2024-09-17	Feature	23	
+2024-07-16	CPU		22.0.2, 21.0.4, 17.0.12, 11.0.24, 8u421
+2024-04-16	CPU		22.0.1, 21.0.3, 17.0.11, 11.0.23, 8u411
+2024-03-19	Feature	22	JSR 397
+2024-01-16	CPU		21.0.2, 17.0.10, 11.0.22, 8u401
+2023-10-17	CPU		21.0.1, 17.0.9, 11.0.21, 8u391
+2023-09-19	Feature	21 LTS	Early AccessJSR 396
+2023-07-18	CPU		20.0.2, 17.0.8, 11.0.20, 8u381
+Released
+Date	Type	Version	Other Information
+2023-04-18	CPU	20.0.1	Risk Matrix
+"   	17.0.7	
+"   	11.0.19	
+"   	8u371	
+2023-03-21	Feature	20	Documentation, JSR 395, Configurations
+2023-01-17	CPU	19.0.2	Risk Matrix
+"   	17.0.6	
+"   	11.0.18	
+"   	8u361	
+2022-10-18	CPU	19.0.1	Risk Matrix
+"   	17.0.5	
+"   	11.0.17
+
+
+PILARES:
+-CONTROLE DE VERSÃO - ex.: GIT,CVS,Subversion, Mercurial
+-CONTROLE DE MUDANÇAS -
+-INTEGRAÇÃO CONTÍNUA 
+
+Dio_code#123!! senha do DIO
+
+GITHUB
+Plataforma de repositório e rede social de DEV.
+Main branch--> branch release --> 
+
+dir--> directory
+cd--> change directory
+cd.. --> volta uma etapa
+git init
+git status
+git add
+git commit
+git commit -m "...."
+git push
+
+
+$ git commit -m "adicionando o primeiro comentário"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+
